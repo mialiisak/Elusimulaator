@@ -1,2 +1,0 @@
-# Elusimulaator
-Esimese kursuse mäng
